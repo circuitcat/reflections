@@ -1,0 +1,36 @@
+Version Control Be Good
+
+Manual vs. Auto Commits
+	- Manual gives most control, but you may forget to do it
+	- Auto creates commits that don't make logical sense, but at least you don't forget to do it
+
+Multi-File Commits
+	- Some projects consist of a bundle of multiple files, so it makes sense to track changes together
+	- Other times you have one file and no need to track changes across files
+
+git log
+	- shows recent git activity
+	- you can see the ID's of the repositories
+
+git diff id1 id2
+	- shows the difference between two repositories by id
+
+hints
+	- use down arrow to scroll down the output from git
+	- use q to stop viewing output from git
+
+Using Checkout
+	- You can checkout any previous commit and all your files revert
+	- You can easily go between commits to see where a bug started
+	- You can start a new branch when you checkout, or not
+	- You can make changes with confidence that you can always go back to a previous commit if need be
+
+Use git for what you please
+
+Initializing a repository
+	- go to the dir and type "git init"
+	- creates an empty repository
+	- type "git status" to see, you guessed it, the status
+
+	
+

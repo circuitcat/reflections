@@ -1,0 +1,25 @@
+Lesson 2
+
+git init
+	- starts an empty git repository
+	- nothing is tracked or staged yet
+
+git add
+	- adds files to the staging area
+	- staging area can be made into a commit to track revisions
+
+git status
+	- shows status of git repository
+	- even if there are no commits, ou can see what is staged or not tracked
+
+staging area
+	- need to add files to this area before they can be tracked
+
+working directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the wd contains everything - the sa has only what we want in the commit
+the sa lets you control what gets tracked and what doesn't
+
+
