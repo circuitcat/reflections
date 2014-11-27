@@ -22,4 +22,6 @@ How is the staging area different from the working directory and the repository?
 the wd contains everything - the sa has only what we want in the commit
 the sa lets you control what gets tracked and what doesn't
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+Add each change to the staging area before making a commit
