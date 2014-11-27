@@ -40,3 +40,7 @@ Merging branches combines all the changes in both branches in a logical way.
 
 The diagram lets us see the branches and the parent of each one.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is fast, but it may not always work as expected. Manual merge requires more work and time, but results in more control and understanding of what happens
+
