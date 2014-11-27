@@ -34,3 +34,9 @@ How do the diagrams help you visualize the branch structure?
 
 You can see the head, branches, which one are unreachable
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging branches combines all the changes in both branches in a logical way.
+
+The diagram lets us see the branches and the parent of each one.
+
