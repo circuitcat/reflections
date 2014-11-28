@@ -19,4 +19,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 You could email an archive of the files to the collaborator(s), give them an assignment, they could email you back the changes for you to check and manually merge. There is no overhaed of Git and GitHub, but there is a lot of other work trying to manage everything manually. So the overhead doeas not seem that bad after all.
 
+You just saw that the workflow when making changes in a separate branch is more complicated than working directly in master, especially when you need to stay up-to-date with changes others are making. Rather than simply pulling and pushing, you need to pull changes into your local master branch, merge the local master into your branch (different-oil, in our case), then push your branch to the remote before finally merging your branch into master, either locally or on GitHub.
+
+Given that, please add the following question and your thoughts on it to your reflections file:
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Ultimately, separate branches allow for better collaboration, especially as more people are involved. If everyone is working on the master, you have to many layers of change without logical separation.
 
