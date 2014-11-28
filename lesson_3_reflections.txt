@@ -15,4 +15,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 You can tell if you have changed state from the remote
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could email an archive of the files to the collaborator(s), give them an assignment, they could email you back the changes for you to check and manually merge. There is no overhaed of Git and GitHub, but there is a lot of other work trying to manage everything manually. So the overhead doeas not seem that bad after all.
+
 
