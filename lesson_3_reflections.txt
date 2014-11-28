@@ -1,2 +1,9 @@
-When would you create a reome vs local repository?
+When would you create a remote vs local repository?
+
+Depends on if you need to work on the files locally or share them to colaborate.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+If your project isn't ready to share with others yet, it doesn't make sense to sync it, so manual is the best way.
+
 
